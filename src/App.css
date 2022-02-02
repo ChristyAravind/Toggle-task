@@ -1,0 +1,49 @@
+.App {
+  font-family: 'Franklin Gothic Medium';
+  background-color: rgb(94, 105, 121);
+  color: black;
+  background-image: url("https://www.teahub.io/photos/full/94-946900_4k-plain-blurred-background-hd-wallpaper-full-size.jpg");
+}
+.fmain{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  gap: 16px;
+
+}
+.main{
+
+  text-align: center;
+
+}
+.star{
+  width: 450px;
+}
+.asd{
+  text-align: center;
+}
+
+.cr7 {
+  margin-top: 30px;
+  width: 450px;
+  height:750px;
+  border-radius: 30px;
+
+}
+
+.summ{
+  font-size: xx-large;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.nmovie{
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+  width: 500px;
+  
+}
